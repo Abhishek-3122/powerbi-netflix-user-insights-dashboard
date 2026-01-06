@@ -53,4 +53,4 @@ This analysis does **not represent official Netflix data or business decisions**
 ## Dashboard Preview
 
 ### Netflix User Insight Dashboard
-![Netflix User Insights](screenshots/01_netflix_user_insights.png)
+![Netflix User Insights](01_netflix_user_insights_overview.png)
